@@ -33,7 +33,6 @@ Run to install cPanel and license only for external VPS:
 curl -o license_cpanel -s https://raw.githubusercontent.com/tactu2023/cPanel-nulled/main/license_cpanel
 chmod +x license_cpanel
 ./license_cpanel
-rm -f license_cpanel
 ```
 # How to fix common problems in license installation?
 Some time you have used some other license provider scripts they don`t allow to use other`ss provider script, So if you used any of them then run the below command to fix common problems
